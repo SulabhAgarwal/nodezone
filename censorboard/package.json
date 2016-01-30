@@ -1,0 +1,19 @@
+{
+"author" : "Sulabh Agarwal",
+"name" : "censorboard",
+"version" : "0.1.1",
+"description" : "Censoring of words",
+"main" : "censortext",
+"repository":{
+ "type": "git",
+ "url": "http://github.com/sulabhagarwal/nodezone/censorboard"
+ },
+ "keywords": [
+ "censor",
+ "words"
+],
+"dependencies" : {},
+"engines": {
+    "node": "*"
+}
+}
