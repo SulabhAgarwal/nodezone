@@ -6,7 +6,7 @@
 "main" : "censortext",
 "repository":{
  "type": "git",
- "url": "http://github.com/sulabhagarwal/nodezone/censorboard"
+ "url": "https://github.com/SulabhAgarwal/nodezone/tree/master/censorboard"
  },
  "keywords": [
  "censor",
